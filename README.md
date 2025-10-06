@@ -8,7 +8,7 @@ All code is provided in a Jupyter Notebook, with processed outputs saved in the 
 
 ## Sample Outputs
 
-| Grayscale | Brightened (NumPy + clip) | Brightened (cv2.convertScaleAbs) | Inverted |
+| Grayscale | Brightened (clip) | Brightened (cv2.convertScaleAbs) | Inverted |
 |-----------|---------------------------|---------------------------------|----------|
 | ![Gray](results/gray.jpg) | ![Brightened NumPy](results/brightened.jpg) | ![Brightened cv](results/brightened_cv.jpg) | ![Inverted](results/inverted.jpg) |
 
